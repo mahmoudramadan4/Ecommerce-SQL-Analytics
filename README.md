@@ -77,15 +77,6 @@ Tech Stack
 
 ---
 
-Project Structure
-
-```
-📦 e-commerce-sql-project
- ┗ 📜 E_COMMERCE_SQL_PROJECT.sql   ← Full script (schema + data + queries)
- ┗ 📜 README.md                    ← Project documentation
-```
-
----
 
 Key Concepts Practiced
 
@@ -111,3 +102,6 @@ Feel free to explore, fork, or suggest improvements
 Contact
 
 If you'd like to connect or give feedback, feel free to reach out via GitHub.
+
+---
+Mahmoud El-Awam Aspiring Data Engineer
