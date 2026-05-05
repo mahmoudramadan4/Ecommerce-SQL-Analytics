@@ -78,6 +78,7 @@ Tech Stack
 ---
 
 
+
 Key Concepts Practiced
 
 - Relational database design & normalization
@@ -88,6 +89,7 @@ Key Concepts Practiced
 - Date functions for time-based filtering
 - `CASE WHEN` for conditional logic / customer segmentation
 - Revenue analysis by time period
+- 
 
 ---
 
